@@ -78,5 +78,3 @@ ID:11288582
 6. Receptiveness to Feedback: The project taught me the significance of receiving and incorporating feedback constructively. I learned to consider alternative perspectives and apply suggestions to enhance the quality of the website.
 
 7. Content Understanding: Researching and understanding the content related to the Computer Science Department deepened my knowledge of the field, faculty, programs, and activities within the department. This process broadened my understanding of the subject matter and enabled me to effectively represent it through the website.
-
-These are just a few areas you can consider when reflecting on your learnings from the project. By highlighting specific skills, knowledge, and experiences gained, you will be able to convey the depth of your learning and growth throughout the website development process.
